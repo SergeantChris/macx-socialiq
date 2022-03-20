@@ -1,3 +1,3 @@
 # macx-socialiq
 
-🚧 Under construction: we expect to upload our final code shortly
+🚧 Under construction: We expect to upload our final code shortly
